@@ -1,0 +1,14 @@
+{
+  "name": "ccnmtl-a11y",
+  "version": "0.1.0",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "axe-core": "^4.7.2",
+    "eslint-plugin-jsx-a11y": "^6.7.1"
+  },
+  "devDependencies": {
+    "jest": "^29.6.3"
+  }
+}

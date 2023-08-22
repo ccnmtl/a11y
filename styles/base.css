@@ -1,0 +1,22 @@
+.jump-main {
+    background-color: #0033ff;
+    color: white;
+    padding: 0.5rem;
+    position: fixed;
+    top: -3rem;
+    transition-property: top;
+    transition-duration: 0.3s;
+    transition-timing-function: ease-out;
+}
+
+.jump-main:focus {
+    top: 0;
+    transition-property: top;
+    transition-duration: 0.3s;
+    transition-timing-function: ease-out;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+}
